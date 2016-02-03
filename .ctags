@@ -1,0 +1,3 @@
+--exclude=/.*[\.git|\.svn]/
+--php-kinds=cfd
+--python-kinds=-iv
